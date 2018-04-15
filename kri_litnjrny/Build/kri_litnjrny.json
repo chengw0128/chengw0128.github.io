@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "kri_litnjrny.data.unityweb",
+"asmCodeUrl": "kri_litnjrny.asm.code.unityweb",
+"asmMemoryUrl": "kri_litnjrny.asm.memory.unityweb",
+"asmFrameworkUrl": "kri_litnjrny.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
